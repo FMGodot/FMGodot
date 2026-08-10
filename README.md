@@ -10,7 +10,7 @@ Below is a copy from my original Blog: [Original Blog(The Latest)](https://froze
 ---
 
 ## **Breaking the Stitching Barrier: Real-Time 12K 360 Stereoscopic Rendering in Godot**
-![FMODS_Demo](./Media/FMODS_Demo_Screenshots_webp/FMODS_Demo_Cylindrical_capture1.webp)
+![FMODS_Demo](./Media/FMODS_Demo_Gif/FMODS_Demo_CoverPreview.gif)
 
 Achieving high-fidelity, real-time omnidirectional stereoscopic (ODS) rendering has traditionally been a brute-force endeavor. Rendering a scene for VR, domed projections, or immersive video usually requires massive computational overhead to avoid visual artifacts. 
 
