@@ -5,6 +5,8 @@ Below is a copy from my original Blog: [Original Blog(The Latest)](https://froze
 - Customised edition based on Godot Engine 4.7
 - Adding support of real time 360 stereo capture support by Leoson Cheong (CHEONG Tai Leong)
 - Email: support@frozenmist.com
+- Forum: [Godot Official Discussion](https://forum.godotengine.org/t/142834)
+- Forum: [Godot Community Discussion](https://godotforums.org/d/44134)
 - [Discord Discussion @FMLeoson](https://frozenmist.com/app_fmurls/fm_redirect.php?url=discord)
 
 ---
