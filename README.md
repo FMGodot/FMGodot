@@ -1,6 +1,6 @@
 ## FM Godot
 
-Below is a copy from my original Blog: [Original Blog(The Latest)](https://frozenmist.com/blog/[Research]%20FMGodot%20Real%20Time%20360%20Stereoscopic%20Omni-Directional%20Panorama)
+Below is a copy from my original Blog: [Original Blog(The Latest)](https://frozenmist.com/blog/20260808-FMGodot-Real-Time-360-Stereoscopic-Omni-Directional-Panorama)
 
 - Customised edition based on Godot Engine 4.7
 - Adding support of real time 360 stereo capture support by Leoson Cheong (CHEONG Tai Leong)
